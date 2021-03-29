@@ -37,3 +37,7 @@ Basically the program is perfoming following steps to be able to present images:
 4. Execute steps 1-2 and check with image which was downloaded at step 3
 5. If they are not equal anymore there is a new picture available perform step 3 
 
+Here are more datails on downloading the images and presenting them:
+
+![both_download](/assets/img/booth_download.svg)
+

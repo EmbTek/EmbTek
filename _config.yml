@@ -2,7 +2,11 @@
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
+# --- AS210406 SEO adds--- #
+tagline: A internet presence for publishing projects done by EmbTek github/real organization. Here are some tags, which are in scope of our organization STM32, embedded, RTOS, SEGGER, schematic, QT, C++, debugging, CAN, CANopen, Software engineering...
 
+description: 
+url: https://embtek.github.io/
 # --- Required options --- #
 
 # Name of website
@@ -31,7 +35,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+#title-img: "/assets/img/uc_icon.png"
 
 
 # --- Footer social media links --- #
@@ -59,7 +63,8 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+#  mastodon: instance.
+/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 
@@ -226,6 +231,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

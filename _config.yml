@@ -18,7 +18,7 @@ author: Artur Sparwasser
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Projects:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Photobooth: "https://embtek.github.io/2021-03-29-photobooth/"
@@ -43,7 +43,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: ""
+  email: "embtek.info@gmail.com"
   facebook: 
   github: EmbTek
 #  twitter: daattali
@@ -63,8 +63,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.
-/@username
+#  mastodon: instance./@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 

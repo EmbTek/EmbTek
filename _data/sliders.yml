@@ -1,0 +1,37 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+    
+- selector: booth_slider
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/booth_gallery/all_free_small.png
+      alt: Great proportions
+    - src: /assets/img/booth_gallery/IMG_0129.JPG
+      alt: Fan for cooling and printer preparation
+    - src: /assets/img/booth_gallery/IMG_0131.JPG
+      alt: Back side holed for cooling 
+    - src: /assets/img/booth_gallery/IMG_0133.JPG
+      alt: Main switch at the bottom with fuse 
+  settings:
+    height: 400
+    effect: "'fade'"
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

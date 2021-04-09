@@ -7,12 +7,20 @@ cover-img: /assets/img/booth_top_free.png
 thumbnail-img: /assets/img/booth_top_free.png
 share-img: /assets/img/booth_top_free.png
 tags: [QT, C++, Connectivity]
+
+image_sliders:
+    - booth_slider
 ---
 
 ## Features
 
 ![booth_features](/assets/img/booth_features.png){: .mx-auto.d-block :}
 
+**Some more great pics**
+
+{% include slider.html selector="booth_slider" %}
+    
+    
 **Great that you are here! Lets have a look under the hood of our wifi powered Photobooth**
 
 

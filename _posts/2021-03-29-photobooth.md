@@ -8,6 +8,7 @@ thumbnail-img: /assets/img/booth_top_free.png
 share-img: /assets/img/booth_top_free.png
 tags: [QT, C++, Connectivity]
 
+
 image_sliders:
     - booth_slider
 ---

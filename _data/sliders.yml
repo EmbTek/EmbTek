@@ -25,7 +25,7 @@
     - src: /assets/img/booth_gallery/IMG_0133.JPG
       alt: Main switch at the bottom with fuse 
   settings:
-    height: "'auto'"
+    height: 400
     effect: "'fade'"
     initialHeight:
     maxHeight: 400

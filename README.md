@@ -1,6 +1,6 @@
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
-# Beautiful Jekyll
+
+# Beautiful Jekyll is used as template for static site generation: 
 
 [![xscode](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=)](https://xscode.com/daattali/beautiful-jekyll)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
@@ -313,3 +313,7 @@ Include `slider.html` where you want the slider to appear within the page or lay
 ## Sliders on index and archive pages
 
 Set `image_sliders_load_all: true` in the front matter of an index page or archive page to load sliders in post content displayed on that page. For example if you are displaying post excerpts on your home page, set `image_sliders_load_all: true` and any image sliders appearing within post excerpts will load correctly on your home page.
+
+# Online Picture Size Optimizator
+This is a pretty easy to use webpage with no additional personal data required, which can be used to optimize pics for web sites:
+https://imageoptim.com/online

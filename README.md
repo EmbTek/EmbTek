@@ -313,3 +313,7 @@ Include `slider.html` where you want the slider to appear within the page or lay
 ## Sliders on index and archive pages
 
 Set `image_sliders_load_all: true` in the front matter of an index page or archive page to load sliders in post content displayed on that page. For example if you are displaying post excerpts on your home page, set `image_sliders_load_all: true` and any image sliders appearing within post excerpts will load correctly on your home page.
+
+# Online Picture Size Optimizator
+This is a pretty easy to use webpage with no additional personal data required, which can be used to optimize pics for web sites:
+https://imageoptim.com/online

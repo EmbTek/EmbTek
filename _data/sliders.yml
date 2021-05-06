@@ -26,6 +26,7 @@
       alt: Main switch at the bottom with fuse 
   settings:
     height: "'3:4'"
+    height: "'auto'"
     effect: "'fade'"
     initialHeight:
     maxHeight: 400
